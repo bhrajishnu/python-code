@@ -4,6 +4,8 @@
 
 I am learning python from the basics
 
+In the following code I am leaning about excuting a file using python
+
 ```
 #! /home/codespace/.python/current/bin/python
 
