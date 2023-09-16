@@ -1,4 +1,4 @@
-# python-code
+# Bhrajishnu's Repository for Python Code
 
 ### This is my python code
 
